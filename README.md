@@ -1,6 +1,6 @@
 # VoiceGrade
 
-# VoiceGrade: Speech-to-Text Accuracy Comparison Website
+# VoiceGrade: The smart way to analyze your answers
 
 ## Overview
 VoiceGrade is an AI-powered academic tool that helps students and educators analyze speech accuracy compared to a given formal text. The system uses speech recognition and NLP-based text comparison to provide insights into missing points in the spoken answer and overall accuracy.
